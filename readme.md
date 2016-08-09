@@ -33,12 +33,9 @@ Below is the schedule for the last 3 weeks of the cohort. Anytime an update is m
 
 #### Week 12
 
-| Monday             | Tuesday               | Wednesday            | Thursday               | Friday             |
-| ------------------ | --------------------- | -------------------- | ---------------------- | ------------------ |
-| 9:30 - Standups    | 9:30 - Standups       | 10:00 Pitch Practice |  3:00 - Freelance Talk | 11:00 - Graduation |
-|                    | 3:30 - Freelance Talk |                      |                        |                    |
-|                    |                       |                      |                        |                    |
-
-
+| Monday             | Tuesday               | Wednesday                   | Thursday               | Friday             |
+| ------------------ | --------------------- | --------------------------- | ---------------------- | ------------------ |
+| 9:30 - Standups    | 9:30 - Standups       | 10:00 Presentation Practice |  3:00 - Presentations  | 11:00 - Graduation |
+|                    | 3:30 - Freelance Talk |                             |                        |                    |
 
 
